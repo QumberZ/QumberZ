@@ -6,7 +6,7 @@ About me 😎
 - 🙏🏻 I’m looking to collaborate on React projects
 - 💪🏻⛹🏻‍♂️ I like to workout and play basketball
 - 🎮 I am a competetive gamer 
-- 📫 How to reach me: http://www.linkedin.com/in/QumberZaidi
+- 📫 Connect with me here: http://www.linkedin.com/in/QumberZaidi
 
 <div align="center">
   <h2>GitHub Stats:</h2>
