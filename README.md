@@ -10,4 +10,3 @@ About me 😎
 
 
 
-![image](https://user-images.githubusercontent.com/82357065/155629172-ef17650a-1d43-4d36-9a54-e33fe4da4c43.png)
