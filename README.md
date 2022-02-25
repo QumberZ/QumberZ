@@ -9,4 +9,4 @@ About me 😎
 - 📫 How to reach me: http://www.linkedin.com/in/QumberZaidi
 
 
-![Qumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=QumberZ&theme=dark&show_icons=true)
+![Qumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=QumberZ&theme=blue-green&show_icons=true)
