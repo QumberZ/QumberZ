@@ -8,6 +8,10 @@ About me 😎
 - 🎮 I am a competetive gamer 
 - 📫 How to reach me: http://www.linkedin.com/in/QumberZaidi
 
+<div align="center">
+  <h2>GitHub Stats:</h2>
 
-![Qumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=QumberZ&theme=blue-green&show_icons=true)
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QumberZ&theme=blue-green&layout=compact&card_width=445&langs_count=10)
+  ![ Qumber's Github stats](https://github-readme-stats.vercel.app/api?username=QumberZ&show_icons=true&theme=blue-green&include_all_commits=true)
+  <br>
+  ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QumberZ&theme=blue-green&layout=compact&card_width=445&langs_count=10)
+<div>
