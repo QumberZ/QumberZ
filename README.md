@@ -7,7 +7,7 @@ About me 😎
 - 💪🏻⛹🏻‍♂️ I like to workout and play basketball
 - 🎮 I am a competetive gamer 
 - 📫 Connect with me here: [![Linkedin Badge](https://img.shields.io/badge/-QumberZaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/QumberZaidi)](http://www.linkedin.com/in/QumberZaidi) 
--
+
 <div align="center">
   <h2>GitHub Stats:</h2>
 
